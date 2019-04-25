@@ -1,0 +1,12 @@
+C:\Users\ИргалиевЕ\source\repos\Homework_02_04\bin\Debug\Homework_02_04.exe.config
+C:\Users\ИргалиевЕ\source\repos\Homework_02_04\bin\Debug\Homework_02_04.exe
+C:\Users\ИргалиевЕ\source\repos\Homework_02_04\bin\Debug\Homework_02_04.pdb
+C:\Users\ИргалиевЕ\source\repos\Homework_02_04\obj\Debug\Homework_02_04.csprojAssemblyReference.cache
+C:\Users\ИргалиевЕ\source\repos\Homework_02_04\obj\Debug\Homework_02_04.Properties.Resources.resources
+C:\Users\ИргалиевЕ\source\repos\Homework_02_04\obj\Debug\Homework_02_04.csproj.GenerateResource.cache
+C:\Users\ИргалиевЕ\source\repos\Homework_02_04\obj\Debug\Homework_02_04.csproj.CoreCompileInputs.cache
+C:\Users\ИргалиевЕ\source\repos\Homework_02_04\obj\Debug\Homework_02_04.exe
+C:\Users\ИргалиевЕ\source\repos\Homework_02_04\obj\Debug\Homework_02_04.pdb
+C:\Users\ИргалиевЕ\source\repos\Homework_02_04\bin\Debug\databaseExample.mdf
+C:\Users\ИргалиевЕ\source\repos\Homework_02_04\bin\Debug\databaseExample_log.ldf
+C:\Users\ИргалиевЕ\source\repos\Homework_02_04\obj\Debug\Homework_02_04.Form1.resources
